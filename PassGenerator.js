@@ -31,4 +31,6 @@ function passwordGenerator(){
         
     }
     console.log("Password generated= ", password);
+    console.log("Chages Made in anBranch2");
+    return password;
 }
